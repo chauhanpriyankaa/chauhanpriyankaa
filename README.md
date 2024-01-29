@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @chauhanpriyankaa
 - 👀 I’m interested in building and experimenting python solution for various testing usecases
 - 🌱 I’m currently learning AI and ML
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me : On linkedIn www.linkedin.com/in/priyankasingh1
+- 😄 Pronouns: she/her
+
 
 <!---
 chauhanpriyankaa/chauhanpriyankaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
